@@ -153,14 +153,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="15-三数之和.cpp" />
-    <ClCompile Include="16-最接近的三数之和.cpp" />
-    <ClCompile Include="18-四数之和.cpp" />
-    <ClCompile Include="26-删除排序数组中的重复项.cpp" />
-    <ClCompile Include="27- 移除元素.cpp" />
-    <ClCompile Include="4-寻找两个有序数组的中位数.cpp" />
-    <ClCompile Include="5-最长回文子串.cpp" />
-    <ClCompile Include="57.-插入区间.cpp" />
+    <ClCompile Include="59-螺旋矩阵2.cpp" />
+    <ClCompile Include="数组\15-三数之和.cpp" />
+    <ClCompile Include="数组\16-最接近的三数之和.cpp" />
+    <ClCompile Include="数组\18-四数之和.cpp" />
+    <ClCompile Include="数组\26-删除排序数组中的重复项.cpp" />
+    <ClCompile Include="数组\27- 移除元素.cpp" />
+    <ClCompile Include="数组\4-寻找两个有序数组的中位数.cpp" />
+    <ClCompile Include="数组\5-最长回文子串.cpp" />
+    <ClCompile Include="数组\57.-插入区间.cpp" />
     <ClCompile Include="最长公共子串.cpp" />
     <ClCompile Include="最长公共子序列.cpp" />
     <ClCompile Include="temp.cpp" />
